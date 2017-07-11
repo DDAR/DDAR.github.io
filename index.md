@@ -18,6 +18,8 @@ Syntax highlighted code block
 - Bulleted
 - List
 
+:four_leaf_clover:
+
 1. Numbered
 2. List
 
