@@ -18,11 +18,10 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-- [] can I do this
-- [X] this is done
-
 1. Numbered
 2. List
+
+# Header again to test!
 
 **Bold** and _Italic_ and `Code` text
 
