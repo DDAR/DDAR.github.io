@@ -18,7 +18,8 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-:+1:
+- [] can I do this
+- [X] this is done
 
 1. Numbered
 2. List
